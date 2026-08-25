@@ -9,19 +9,10 @@
 <img width="761" height="567" alt="kuva" src="https://github.com/user-attachments/assets/94ee162d-8d77-476f-ba0d-2bdf3c062cfe" />
 >
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Parallel computing projects](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

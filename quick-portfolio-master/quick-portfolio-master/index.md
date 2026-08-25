@@ -9,16 +9,7 @@
 <img width="761" height="567" alt="kuva" src="https://github.com/user-attachments/assets/94ee162d-8d77-476f-ba0d-2bdf3c062cfe" />
 >
 
-
-### Category Name 2
-
-- [Parallel computing projects](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+* [View Source Code on GitHub](https://github.com/SOLll11/SOLII11-parallel-computing-projects.git)
 
 
 

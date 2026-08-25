@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Parallel Computing Course projects
 
 [Parallel computing projects](<img width="761" height="567" alt="kuva" src="https://github.com/user-attachments/assets/8974c888-b399-4b72-be50-c1f86ec7bcc6" />
 )

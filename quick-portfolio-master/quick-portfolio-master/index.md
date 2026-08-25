@@ -4,8 +4,10 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Parallel computing projects](<img width="761" height="567" alt="kuva" src="https://github.com/user-attachments/assets/8974c888-b399-4b72-be50-c1f86ec7bcc6" />
+)
+<img width="761" height="567" alt="kuva" src="https://github.com/user-attachments/assets/94ee162d-8d77-476f-ba0d-2bdf3c062cfe" />
+>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

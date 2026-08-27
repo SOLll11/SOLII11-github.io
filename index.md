@@ -12,14 +12,13 @@ Three different parallel compuning projects done in student exchange using JAVA 
 
 ### Basic News App project
 
-[A News App project done in an group of 4 using JAVA and an API, utilizing a Model  
+A News App project done in an group of 4 using JAVA and an API, utilizing a Model  
 View-Controller (MVC) architecture with a Semi-Active View approach.  
 People involved:  
 Sakari Ollikainen  
 Savidya Premasundera  
 Roosa Valijärvi  
 Daniele Vaccari  
-](<img width="1852" height="191" alt="kuva" src="https://github.com/user-attachments/assets/1eff3318-6423-432b-8b62-ef165fdcf3f8" />)
 <img width="1852" height="191" alt="kuva" src="https://github.com/user-attachments/assets/1eff3318-6423-432b-8b62-ef165fdcf3f8" />
 
 

@@ -6,7 +6,7 @@
 Three different parallel compuning projects done in student exchange using JAVA and C languages
 
 <img width="761" height="567" alt="kuva" src="https://github.com/user-attachments/assets/94ee162d-8d77-476f-ba0d-2bdf3c062cfe" />
->
+
 
 * [View Source Code on GitHub](https://github.com/SOLll11/SOLII11-parallel-computing-projects.git)
 
@@ -24,7 +24,15 @@ Daniele Vaccari
 
 * [View Source Code on GitHub](https://github.com/SOLll11/newsapp.git)
 
+### Simple Wheater App
+A weather app made in a group of three using JAVA and API  
+People involved:
+Rasmus Tuokko 
+Lassi Lappalainen 
+Sakari Ollikainen
+<img width="605" height="364" alt="kuva" src="https://github.com/user-attachments/assets/55f969bd-9bcb-4242-a771-16d1fc80d435" />
 
+* [View Source Code on GitHub](
 
 
 ---

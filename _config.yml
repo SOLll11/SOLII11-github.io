@@ -1,11 +1,9 @@
 title: Sakari Ollikainen # your name (or website title) here
 logo: "/images/face 2026-08-27 104235.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hey I'm Sakari Ollikainen and here you can find some of my coding projects I've made during my time in University.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

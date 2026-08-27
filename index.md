@@ -34,6 +34,10 @@ Sakari Ollikainen
 
 * [View Source Code on GitHub](https://github.com/SOLll11/Weather-App.git)
 
+### Code from various coding courses I've completed
+Mostly using C++ and Java  
+* [View Source Code on GitHub](https://github.com/SOLll11/Coding-courses-.git)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
